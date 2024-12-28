@@ -1,1 +1,2 @@
-# Scott-
+#My HTML file is a personal portfolio designed as a travel blog. It has a navigation menu with links to the home, about, and contact pages. The hero section introduces me, Scott Gallardo from CS-102, with a button to learn more about me. There’s a photo section featuring places I love, like New York, Paris, and Siargao. I also included social media links to my Instagram, Facebook, and Messenger for easy connection. It’s a simple and creative way to share my passion for travel.
+
